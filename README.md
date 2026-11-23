@@ -1,4 +1,4 @@
-# Projeto POO - Grupo 6
+# Projeto POO - Grupo 6 - Locadora de veículos
 ## Integrantes
 1. iaguitotop - iaguitosdev.for@gmail.com
 2. hansel-oliveira - hanseloliveira27@gmail.com
@@ -12,8 +12,10 @@
 3. Execute o método `main` da classe `app.Main`.
 
 ## 2. Diagrama de Classes
-*(Cole aqui o diagrama em Mermaid ou a imagem/foto do diagrama desenhado)*
-
+![alt text](image.png)
 ## 3. Divisão de Tarefas (Quem fez o quê)
+1. Iago Ayres
+    -README.md
+    -.gitignore
 
 ## 4. Declaração de Uso de IA

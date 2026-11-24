@@ -3,8 +3,8 @@
 1. iaguitotop - iaguitosdev.for@gmail.com
 2. hansel-oliveira - hanseloliveira27@gmail.com
 3. jamesexesilva-hash - jamesexesilva@gmail.com
-4. kirliepoc - nicolascpessoal@gmail.com
-5. nicolascpessoal-stack - iagosales96171@gmail.com
+4. kirliepoc - iagosales96171@gmail.com
+5. nicolascpessoal-stack - nicolascpessoal@gmail.com
 
 ## 1. Como executar
 1. Clone o repositório: `git clone <https://github.com/iaguitotop/poo-2026-2-grupo-6>`

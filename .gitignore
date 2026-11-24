@@ -1,0 +1,14 @@
+# Compilação Java
+*.class
+out/
+bin/
+target/
+
+# IDEs (IntelliJ, Eclipse, VS Code, NetBeans)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+nbproject/

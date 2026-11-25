@@ -12,7 +12,7 @@ public abstract class Veiculo {
             throw new IllegalArgumentException("Nome de placa vazio.");
         }
 
-        if (placa == null || placa.isBlank()) {
+        if (modelo == null || modelo.isBlank()) {
             throw new IllegalArgumentException("Nome de modelo vazio.");
         }
 

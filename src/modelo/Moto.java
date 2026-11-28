@@ -11,6 +11,6 @@ public class Moto extends Veiculo {
             throw new IllegalArgumentException("O número de dias deve ser maior que 0.");
         }
 
-        return consultarDiariaBase() * dias;
+        return consultarDiariaBase() * dias * 0.8;
     }
 }

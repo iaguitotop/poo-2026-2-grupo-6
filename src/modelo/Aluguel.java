@@ -46,9 +46,6 @@ public class Aluguel {
             throw new IllegalArgumentException("O valor adicional não pode ser negativo.");
         }
 
-        this.dias += diasExtras;
-        this.valorPago += valorAdicional;
-
 
         this.dias += diasExtras;
         this.valorPago += valorAdicional;
@@ -96,6 +93,6 @@ public class Aluguel {
     public String toString() {
         String status = encerrado ? "Encerrado (Atraso: " + diasAtraso + "d)" : "Em andamento";
         return String.format("Aluguel #%d | Cliente: %s | Veículo: %s (%s) | Dias: %d | Pago: R$ %.2f | Status: %s",
-                codigo, cliente.getNome(), veiculo.getModelo(), veiculo.getPlaca(), dias, valorPago, status);
+                codigo, cliente.getNome(), veiculo.consultarModelo(), veiculo.consultarPlaca(), dias, valorPago, status);
     }
 }

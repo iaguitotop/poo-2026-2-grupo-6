@@ -26,7 +26,7 @@ public class Van extends Veiculo implements Manutenivel {
             );
         }
 
-        return consultarDiariaBase() * dias;
+        return consultarDiariaBase() * dias * 1.20;
     }
 
     @Override
